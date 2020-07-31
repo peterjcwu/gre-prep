@@ -1,4 +1,4 @@
-# Letter From A Homeowner
+# Recommendation From the Board of Directors of Monarch Books
 
 #### 2020-07-30
 
@@ -21,11 +21,15 @@ in order to decide whether the recommendation is likely to have the predicted
 result. Be sure to explain how the answers to these questions would help to
 evaluate the recommendation.
 
-## Stretage
+## Thought
 
-## Sample Argument
+1. Wether opening a cafe will attaract more customers or not.
+2. Children's book may not be less popular
+3. The sales of children's book may not related to the population percentage.
+4. The population percentage may change in the future
+5.  Regal Books already lunched its own cafe, should Monarch Books do the same thing?
+6.  The strength of Monarch Books is its wide selection of books of all subjectes. 
 
+## Sample Essay
 
-
-
-
+The board of directors of Monarch Books suggests that the 
