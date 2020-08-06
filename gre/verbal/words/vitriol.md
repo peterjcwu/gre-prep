@@ -6,7 +6,7 @@ vit·ri·ol
 
 (none) Violent hate and anger expressed through severe criticism
 
-# Example
+## Example
 
 Given the vitriol that has followed the film since its inception, it does well simply not to be a colossal misstep.
 
