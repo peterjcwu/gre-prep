@@ -12,5 +12,5 @@ These daily updates were designed to help readers keep **abreast** of the market
 
 ## Synonyms
 
-．in touch with
-．plugged into
++ in touch with
++ plugged into
