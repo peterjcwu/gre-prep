@@ -10,6 +10,6 @@ The firm admitted that **it vitiated its stated standards** for evaluating secur
 
 ## Synonyms
 
-+ put an end to,
++ put an end to
 + do away with
 + scrap
