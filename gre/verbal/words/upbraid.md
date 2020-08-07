@@ -3,6 +3,7 @@
 ʌpˈbreɪd
 
 (verb) Find fault with (someone)
+
 (verb) To forcefully or angrily tell someone they should not have done a particular thing and criticize them for having done it
 
 ## Example
