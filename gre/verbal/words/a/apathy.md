@@ -1,6 +1,8 @@
 # apathy
 
-a·pa·thy
+/ˈæp.ə.θi/
+
+*top 50 gre words*
 
 (noun) Lack of interest, enthusiasm, or concern
 

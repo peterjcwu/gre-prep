@@ -2,6 +2,8 @@
 
 au·da·cious
 
+*top 50 gre words*
+
 (adjective) Showing a willingness to take surprisingly bold risks
 
 ## Example

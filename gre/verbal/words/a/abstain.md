@@ -2,6 +2,8 @@
 
 ab·stain
 
+*top 50 gre words*
+
 (verb) Restrain oneself from doing or enjoying something. To not do something, especially something enjoyable that you think might be bad.
 
 (verb) To decide not to use your vote.

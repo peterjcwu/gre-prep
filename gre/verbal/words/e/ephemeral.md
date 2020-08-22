@@ -2,6 +2,8 @@
 
 /ɪˈfem.ɚ.əl/
 
+*top 50 gre words*
+
 (adjective) Lasting for a very short time
 
 ## Example
