@@ -6,4 +6,4 @@
 
 ##  Example
 
-He vouchsafed the information that the meeting had been postponed
+**He vouchsafed the information** that the meeting had been postponed
