@@ -1,6 +1,8 @@
 # opine
 
-(verb) Hold and state as one’s opinion
+/əʊˈpaɪn/
+
+(verb) Hold and state as one’s opinion; to express an opinion
 
 ## Synonyms
 
