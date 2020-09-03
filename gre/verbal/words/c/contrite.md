@@ -1,5 +1,7 @@
 # contrite
 
+/ˈkəʊ.tər.i/
+
 (adjective) Feeling or expressing remorse or penitence
 
 ## Synonyms
