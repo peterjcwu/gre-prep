@@ -6,4 +6,4 @@ To be as good as something
 
 + The concert was brilliant - it lived up to all our expectations.
 
-+ I feel it's impossible to live up to his mother.
++ The Pygmalion effect describes the dynamic in which an individual lives up to great expectations.
