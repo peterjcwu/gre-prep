@@ -8,6 +8,10 @@
 
 (adjective) swollen (of an organ or living tissue)
 
+## Chinese
+
+太嚴肅的，枯燥乏味的
+
 ## Example
 
 It promotes a cult of personality around Mr Baghdadi. It churns out **turgid propaganda** about repaired bridges and newly opened schools.
