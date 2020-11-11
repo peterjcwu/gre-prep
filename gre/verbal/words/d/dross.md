@@ -10,4 +10,4 @@
 
 ## Example
 
-Some of its best properties could be sold quickly, but the dross might take years to offload.
+Some of its best properties could be sold quickly, but **the dross might take years to offload**.

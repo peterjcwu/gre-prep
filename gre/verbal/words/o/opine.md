@@ -12,4 +12,4 @@
 
 ## Example
 
-The voters may opine on the overarching principle but the voters cannot get involved in the minutiae of policy implementation.
+The voters may **opine on** the overarching principle but the voters cannot get involved in the minutiae of policy implementation.
